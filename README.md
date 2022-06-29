@@ -5,13 +5,13 @@
 <h3>&nbsp &nbsp💁&nbsp About Me </h3>
 
 - 🎉 &nbsp; I’m currently learning Flutter and Blockchain Technology.
-- ⭐ &nbsp; Looking for contributions in Android development.
-- 🔎 &nbsp; Researching in the field of Artificial Intelligence and Metaverse.
-- 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
+- 🌌 &nbsp; Looking for contributions in Android development.
+- 🔬 &nbsp; Researching in the field of Artificial Intelligence and Metaverse.
+- 🌍 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing Diploma in Computer Engineering.
-- 🌱 &nbsp; Enthusiast in Blockchain, Robotics, AI and Web 3.0 .
-- 😎 &nbsp; Love playing chess and listening to songs.. 
-- ☕ &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD. 
+- 💗 &nbsp; Enthusiast in Blockchain, Robotics, AI and Web 3.0 .
+- 😊 &nbsp; Love playing chess and listening to songs.. 
+- 😂 &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD. 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -27,7 +27,7 @@
 
 </br>
 
-# 📊&nbspGitHub Stats :
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AnishaShende&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnishaShende&theme=dark&hide_border=true)<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaShende&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</p>
