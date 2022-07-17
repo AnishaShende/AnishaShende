@@ -9,7 +9,7 @@
 - 🔬 &nbsp; Researching in the field of Artificial Intelligence and Metaverse.
 - 🌍 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing Diploma in Computer Engineering.
-- 💗 &nbsp; Enthusiast in Blockchain, Robotics, AI and Web 3.0 .
+- 💗 &nbsp; Enthusiasm for Blockchain, Robotics, AI and Web 3.0 .
 - 😊 &nbsp; Love playing chess and listening to songs.. 
 - 😂 &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD. 
 
