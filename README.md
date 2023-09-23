@@ -4,21 +4,21 @@
 
 <h3>&nbsp &nbsp💁&nbsp About Me </h3>
 
-- 🎉 &nbsp; I’m currently learning Flutter and Blockchain Technology.
+- 🎉 &nbsp; I’m currently learning Flutter and Competitive programming.
 - 🌌 &nbsp; Looking for contributions in Android development.
-- 🔬 &nbsp; Researching in the field of Artificial Intelligence and Metaverse.
+- 🔬 &nbsp; Researching in the field of Artificial Intelligence and Augmented Reality.
 - 🌍 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing Diploma in Computer Engineering.
-- 💗 &nbsp; Enthusiasm for Blockchain, Robotics, AI and Web 3.0 .
-- 😊 &nbsp; Love playing chess and listening to songs.. 
+- 🎓 &nbsp; Computer Engineering undergrad.
+- 💗 &nbsp; Enthusiasm for Robotics, AI and Web 3.0 .
+- 😊 &nbsp; Love playing chess and listening to songs. 
 - 😂 &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java | SQL
+- 💻 &nbsp; C | C++ | Java | SQL
 - 🌐 &nbsp; HTML | CSS | Javascript
 - ☁ &nbsp; Google Cloud Platform | Flutter
-- 🔧 &nbsp; Github | Visual Studio code | Pycharm 
+- 🔧 &nbsp; Github | Visual Studio code
 
 <h3> 💪&nbspWant to Expertise in</h3> 
 
@@ -39,6 +39,6 @@
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Anisha_Shende" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   
-&nbsp; <a href="https://www.linkedin.com/in/anisha-shende-9667851b9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:anishashende369@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/anishashende/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:anishaashende@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
