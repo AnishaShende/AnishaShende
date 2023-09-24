@@ -38,7 +38,7 @@
 <h3> 👐 Let's Connect </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/Anisha_Shende" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   
+&nbsp; <a href="https://twitter.com/Anisha_Shende" target="_blank" rel="noopener noreferrer"><img src="https://github.com/AnishaShende/AnishaShende/assets/91362696/ca0f5e9f-b759-47ea-96ab-50d295175ac5" width="30" /></a>   
 &nbsp; <a href="https://www.linkedin.com/in/anishashende/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:anishaashende@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
