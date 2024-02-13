@@ -9,7 +9,7 @@
 - 🔬 &nbsp; Researching in the field of Artificial Intelligence and Augmented Reality.
 - 🌍 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Engineering undergrad.
-- 💗 &nbsp; Enthusiasm for Robotics, AI and Web 3.0 .
+- 💗 &nbsp; Curious about Robotics, AI and Web 3.0 .
 - 😊 &nbsp; Love playing chess and listening to songs. 
 - 😂 &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD. 
 
