@@ -32,6 +32,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnishaShende&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishaShende&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100p
+</div>
+
 # 💡 Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
