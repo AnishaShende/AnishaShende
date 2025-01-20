@@ -10,7 +10,7 @@
 - 🔬 &nbsp; Researching in the field of Generative Artificial Intelligence and Large Language Models.
 - 🌍 &nbsp; Exploring newer technologies and developing software solutions.
 - 🎓 &nbsp; Computer Engineering undergraduate.
-- 😊 &nbsp; Fun fact: Can be a super-serious coder and crack the silliest jokes - all at the same time!.
+- 😊 &nbsp; Fun fact: Can be a super-serious coder and crack the silliest jokes - all at the same time!
 
 # 💻 Tech Stack:
 <img align="center" alt="skills"  style="{ margin: auto; width: 90%; text-align: center; }" src="https://github.com/user-attachments/assets/e519be6d-f637-49f3-add6-d040c788d468">
